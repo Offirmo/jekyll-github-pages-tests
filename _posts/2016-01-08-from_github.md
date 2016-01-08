@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "does it work without date ?"
+title:  "does it work with .md ?"
 date:   2016-01-08 11:55:03
 categories: foo
 ---
