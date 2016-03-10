@@ -2,7 +2,6 @@
 layout: post
 title:  "Github markdown"
 date:   2016-01-08 11:55:03
-categories: foo
 ---
 
 Variable FOO_BAR_BAZ `FOO_BAR_BAZ`
@@ -16,7 +15,7 @@ auto link http://jekyllrb.com
 // http://blog.loadimpact.com/blog/exception-handling-in-an-angularjs-web-application-tutorial/
 offirmo_app.global_ng_module.config(['$provide', function($provide) {
 	$provide.decorator('$exceptionHandler', ['$log', '$delegate', function($log, $delegate) {
-			return function(exception, cause) {
+			return function(exception__foo__bar, cause) {
 				//console.log(arguments);
 				$log.error.apply($log, arguments);
 

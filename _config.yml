@@ -32,6 +32,7 @@ gems:
    - jekyll-redirect-from
    - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
    - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+   - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
@@ -39,3 +40,20 @@ exclude:
    - Gemfile.lock
    - README.md
 
+
+####### From theme #####
+## https://github.com/poole/lanyon
+permalink:           pretty
+
+# Setup
+tagline:             'Lanion tagline'
+#url:                 http://192.168.88.88:4000/
+#baseurl:             ''
+paginate:            5
+paginate_path:       "page:num"
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com

@@ -2,7 +2,6 @@
 layout: post
 title: Another post
 date: 2016-01-07T01:08:26.000Z
-categories: foo
 published: true
 ---
 
