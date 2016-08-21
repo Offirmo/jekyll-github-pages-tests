@@ -1,0 +1,22 @@
+{
+  "name": "jekyll-github-pages-tests",
+  "version": "0.0.1",
+  "description": "Testing Github pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offirmo/jekyll-github-pages-tests.git"
+  },
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Offirmo/jekyll-github-pages-tests/issues"
+  },
+  "homepage": "https://github.com/Offirmo/jekyll-github-pages-tests#readme",
+  "devDependencies": {
+    "tachyons": "^4.1.0"
+  }
+}
