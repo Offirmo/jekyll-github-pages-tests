@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offirmo/post
 title:  "Github markdown"
 date:   2016-01-08 11:55:03
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offirmo/post
 title:  "does it work with .md ?"
 date:   2016-01-08 11:55:03
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: offirmo/post
 title:  "Welcome to Jekyll!"
 date:   2016-08-21 12:52:21 +0000
 categories: jekyll update
